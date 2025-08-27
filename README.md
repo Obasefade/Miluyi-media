@@ -15,7 +15,7 @@ Student number: ST10480695
 ## Timeline and Milestones
 - Week1:  Project initiation
 - Week2: Wireframe and design approval
-- Week3: Development phas
+- Week3: Development phase
 - Week4: Development phase
 - Week5: Content integration
 ## Part 1 Details
