@@ -1,8 +1,8 @@
 # Miluyi-media
 This repository is for the coding scripts for the Miluyi-Media website. The website was designed to showcase the companies services, portfolio, and story while providing an easy way for potential customers to learn about the company does and book consultations.
 ## Student info
--- Name: Obasefade Ademiluyi
--- Student number: ST10480695
+- Name: Obasefade Ademiluyi
+- Student number: ST10480695
 ## Project overview
 
 ## Website goal and objectives
