@@ -29,8 +29,8 @@ This submission includes the initial website structure (HTML), sitemap, and wire
 ## Changelog
 - v0.1 created basic html structure pages
 - v1.1 – External Stylesheet
- * Created style.css and linked across all pages.
- * Set base styles (reset, fonts, colors, spacing).
+-* Created style.css and linked across all pages.
+-* Set base styles (reset, fonts, colors, spacing).
 ## References
 - W3Schools (2025) HTML tutorial. Available at: https://www.w3schools.com/html/ (Accessed: 27 August 2025).
 - YouTube (2023) Learn HTML headers & footers in 5 minutes!. Available at: https://www.youtube.com/watch?v=JNFdCgmMkPk (Accessed: 27 August 2025).
