@@ -34,6 +34,7 @@ This submission includes the initial website structure (HTML), sitemap, and wire
 
 ## Test and iterate(screenshots)
 mobile/tablet:
+
 ![WhatsApp Image 2025-09-26 at 20 02 28_578b6c92](https://github.com/user-attachments/assets/d082ee61-d1e6-4fa9-9956-0ce90e6058d5)
 ![WhatsApp Image 2025-09-26 at 20 02 27_ae481a75](https://github.com/user-attachments/assets/9ac4d42b-cb07-42c0-9624-f75e231aacaf)
 ![WhatsApp Image 2025-09-26 at 20 02 26_178fcdb7](https://github.com/user-attachments/assets/12251e2b-c704-4fca-92a6-e93ca9bb36b4)
