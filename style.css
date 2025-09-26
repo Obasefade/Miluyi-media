@@ -1,3 +1,4 @@
+/* Global Reset */
 * {
     margin: 0;
     padding: 0;
@@ -5,13 +6,14 @@
     font-family: "Lato", Arial, sans-serif;
 }
 
-
 body {
     background-color: #f9f9f9;  
     color: #333;
     line-height: 1.6;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
+/* Header */
 header {
     background-color: royalblue;
     color: white;
@@ -36,20 +38,25 @@ header a:hover {
     color: #ffdd57; 
 }
 
-h2 {
+/* Headings */
+h2, h3 {
     color: royalblue;
-    margin: 30px 0 10px;
     text-align: center;
+    margin: 30px 0 15px;
+    font-weight: bold;
 }
 
+/* Paragraphs */
 p, p1 {
     max-width: 800px;
-    margin: 10px auto;
+    margin: 10px auto 30px;
     display: block;
     text-align: center;
     font-size: 1.1rem;
+    font-weight: 500;
 }
 
+/* Contact Section */
 .contact-section {
     padding: 60px 20px;
     background-color: #f9f9f9;
@@ -74,7 +81,6 @@ p, p1 {
     font-size: 1.8rem;
 }
 
-/* Input fields */
 .contact-form label {
     display: block;
     margin-bottom: 8px;
@@ -99,7 +105,6 @@ p, p1 {
     outline: none;
 }
 
-/* Button */
 .contact-form button {
     width: 100%;
     background-color: royalblue;
@@ -116,19 +121,79 @@ p, p1 {
     background-color: #003f87;
 }
 
+/* Offerings Section */
+.offerings {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    max-width: 1100px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.package-card {
+    background: white;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.package-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.package-card h3 {
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    color: royalblue;
+}
+
+.package-card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.package-card ul li {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 1rem;
+    color: #333;
+}
+
+.package-card ul li:last-child {
+    border-bottom: none;
+}
+
+.package-card a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: royalblue;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+.package-card a:hover {
+    background-color: #003f87;
+}
+
+/* Images */
 img {
     display: block;
     margin: 20px auto;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    max-width: 100%;
+    height: auto;
 }
 
-p {
-    text-align: center;
-    margin-bottom: 30px;
-    font-weight: 500;
-}
-
+/* Buttons */
 a.button {
     display: inline-block;
     background: royalblue;
@@ -144,6 +209,7 @@ a.button:hover {
     background: #003f87;
 }
 
+/* Footer */
 footer {
     background-color: royalblue;
     color: white;
@@ -155,4 +221,92 @@ footer {
 footer h3 {
     font-size: 1rem;
     font-weight: normal;
+}
+
+/* Mobile Responsiveness */
+@media screen and (max-width: 600px) {
+
+    /* Headings */
+    h1 {
+        font-size: 1.6rem;
+    }
+
+    h2, h3 {
+        font-size: 1.4rem;
+        margin: 20px 0 10px;
+    }
+
+    /* Paragraphs */
+    p, p1 {
+        font-size: 1rem;
+        margin: 10px 15px;
+    }
+
+    /* Header Links */
+    header a {
+        display: block;
+        margin: 5px 0;
+    }
+
+    /* Contact Section */
+    .contact-section {
+        padding: 40px 10px;
+    }
+
+    .contact-form {
+        padding: 20px;
+        max-width: 100%;
+    }
+
+    .contact-form input,
+    .contact-form textarea,
+    .contact-form button {
+        font-size: 0.95rem;
+        padding: 10px;
+    }
+
+    /* Offerings Section */
+    .offerings {
+        grid-template-columns: 1fr; /* Stack vertically */
+        gap: 20px;
+        padding: 0 10px;
+    }
+
+    .package-card {
+        padding: 20px;
+        font-size: 0.95rem;
+    }
+
+    .package-card h3 {
+        font-size: 1.2rem;
+    }
+
+    .package-card ul li {
+        font-size: 0.95rem;
+    }
+
+    .package-card a {
+        padding: 8px 15px;
+        font-size: 0.95rem;
+    }
+
+    /* Images */
+    img {
+        width: 100%; 
+        height: auto;
+        margin: 15px 0;
+    }
+
+    /* Buttons */
+    a.button {
+        font-size: 0.95rem;
+        padding: 8px 15px;
+        margin: 15px auto;
+    }
+
+    /* Footer */
+    footer {
+        font-size: 0.9rem;
+        padding: 10px;
+    }
 }
