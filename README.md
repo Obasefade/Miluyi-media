@@ -33,7 +33,7 @@ This submission includes the initial website structure (HTML), sitemap, and wire
   * Set base styles (reset, fonts, colors, spacing).
 
 ## Test and iterate(screenshots)
-mobile/tablet:
+-Mobile/tablet:
 
 ![WhatsApp Image 2025-09-26 at 20 02 28_578b6c92](https://github.com/user-attachments/assets/d082ee61-d1e6-4fa9-9956-0ce90e6058d5)
 ![WhatsApp Image 2025-09-26 at 20 02 27_ae481a75](https://github.com/user-attachments/assets/9ac4d42b-cb07-42c0-9624-f75e231aacaf)
@@ -42,9 +42,10 @@ mobile/tablet:
 ![WhatsApp Image 2025-09-26 at 20 02 24_4dd3db34](https://github.com/user-attachments/assets/b76d7013-4451-4321-88ba-4c573c8b520a)
 
 
-
-
 laptop:
+<img width="1919" height="1079" alt="Screenshot 2025-09-26 194956" src="https://github.com/user-attachments/assets/4b41f42f-036a-4316-bf8e-fd22b25dea95" />
+<img width="1919" height="1074" alt="Screenshot 2025-09-26 195006" src="https://github.com/user-attachments/assets/cc8be01f-23e0-45eb-9356-d28869869eda" />
+
 
 
 
