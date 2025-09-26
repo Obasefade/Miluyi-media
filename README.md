@@ -18,8 +18,7 @@ This repository is for the coding scripts for the Miluyi-Media website. The webs
 - Week3: Development phase
 - Week4: Development phase
 - Week5: Content integration
-## Part 1 Details
-This submission includes the initial website structure (HTML), sitemap, and wireframes for the main pages. 
+
 ## Sitemap
 - Homepage (index.html)  
 - About Us (about.html)  
