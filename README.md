@@ -42,10 +42,13 @@ This submission includes the initial website structure (HTML), sitemap, and wire
 ![WhatsApp Image 2025-09-26 at 20 02 24_4dd3db34](https://github.com/user-attachments/assets/b76d7013-4451-4321-88ba-4c573c8b520a)
 
 
-laptop:
+-Laptop:
+
 <img width="1919" height="1079" alt="Screenshot 2025-09-26 194956" src="https://github.com/user-attachments/assets/4b41f42f-036a-4316-bf8e-fd22b25dea95" />
 <img width="1919" height="1074" alt="Screenshot 2025-09-26 195006" src="https://github.com/user-attachments/assets/cc8be01f-23e0-45eb-9356-d28869869eda" />
-
+<img width="1919" height="1079" alt="Screenshot 2025-09-26 195018" src="https://github.com/user-attachments/assets/c9eaaf2d-e460-4b75-9781-a3d265fb3e0d" />
+<im<img width="1919" height="1079" alt="Screenshot 2025-09-26 201249" src="https://github.com/user-attachments/assets/ca27f2cd-aebf-4167-84ee-a37bd153ba2c" />
+g width="1919" height="1079" alt="Screenshot 2025-09-26 195028" src="https://github.com/user-attachments/assets/675f951a-70ec-4432-99c8-b8c39c0db42d" />
 
 
 
