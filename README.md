@@ -30,6 +30,13 @@ This repository is for the coding scripts for the Miluyi-Media website. The webs
 - v1.1 – External Stylesheet
 - * Created style.css and linked across all pages.
   * Set base styles (reset, fonts, colors, spacing).
+- v1.2 – Responsive Design & Script Enhancements
+* Added responsive CSS for better mobile display (no horizontal scrolling)
+* Services page layout now stacks properly on mobile devices
+* Created web.js for interactivity
+* Added blog filter buttons (All / Blogs / Portfolios)
+* Added JavaScript thank-you message after contact form submission
+* Added “Portfolio info coming” placeholder image
 
 ## Test and iterate(screenshots)
 -Mobile/tablet:
