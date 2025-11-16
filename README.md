@@ -37,6 +37,16 @@ This repository is for the coding scripts for the Miluyi-Media website. The webs
   * Added blog filter buttons (All / Blogs / Portfolios)
   * Added JavaScript thank-you message after contact form submission
   * Added “Portfolio info coming” placeholder image
+- v1.3 – Visual & UX Improvements
+- * Improved blog search bar styling and positioning under header
+  * Updated lightbox to group images correctly
+  * Adjusted typography and spacing for better readability
+  * Added hover states and transitions to buttons and links
+  * Organized file structure for easier maintenance
+- v1.4 – Branding Updates
+- * Added temporary logo and assets for Miluyi Media
+  * Updated About page copy to reflect brand messaging
+  * Added business description, tagline, and mission focus
 
 ## Test and iterate(screenshots)
 -Mobile/tablet:
